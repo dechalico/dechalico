@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Dexter and I'm a Full-Stack Engineer from Philippines</h3>
+<h3 align="left">Hi 👋! My name is Dexter and I'm a Full-Stack Developer from Philippines</h3>
 
 ###
 
