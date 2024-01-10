@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dexter Echalico</h1>
-<h3 align="center">I am a seasoned Full Stack Engineer based in the Philippines with 7 years of experience in the industry. My expertise lies in both backend and frontend development, with a strong command of Node.js, typescript, Express.js, Nestjs, C#, .NET Core, Blazor, Vue.js, Nuxt, and Quasar Framework. I have extensive experience in third-party API integration, converting mock-up designs into working applications with API integration, and server management on both Windows and Linux, with a strong preference for Debian-based Linux systems. I have a wealth of experience in database management and design, having worked with various database systems such as MSSQL, MySQL, PostgreSQL, and MongoDB. Additionally, I am experienced in using Github Actions for CI/CD and am well-versed in Docker and Docker Compose for deployment.</h3>
+<h3 align="center">I'm an experienced Full Stack Engineer based in the Philippines with 8 years in the industry. My skills span backend and frontend development, with expertise in technologies like Node.js, typescript, Express.js, Nestjs, C#, .NET Core, Blazor, Vue.js, Nuxt, and Quasar Framework. I specialize in API integration, transforming designs into functional applications, and server management on both Windows and Linux, favoring Debian-based systems.
+
+I've worked extensively with databases (MSSQL, MySQL, PostgreSQL, MongoDB), and I'm proficient in CI/CD using Github Actions, along with deployment using Docker and Docker Compose.</h3>
 
 - 🌱 I’m currently learning **Software Design Architecture and Low level Language like C and Rust**
 
