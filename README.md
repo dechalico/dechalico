@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 I'm an experienced Full Stack Engineer based in the Philippines with 8 years in the industry. My skills span backend and frontend development, with expertise in technologies like Node.js, Express.js, Nestjs, C#, .NET Core, Blazor, Vue.js, Nuxt, and Quasar Framework. I specialize in API integration, transforming designs into functional applications, and server management on both Windows and Linux, favoring Debian-based systems.<br><br>I've worked extensively with databases (MSSQL, MySQL, PostgreSQL, MongoDB), and I'm proficient in CI/CD using Github Actions, along with deployment using Docker and Docker Compose.
 
